@@ -4,5 +4,8 @@ line 3
 line 4
 line 5
 line 6
+<<<<<<< HEAD
 line 7
 line 8
+=======
+>>>>>>> b8872125535e90880bfdaa8562c949d8837913fe
